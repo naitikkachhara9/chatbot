@@ -1,0 +1,8 @@
+Prompt:
+Subject: Savings account for HOA reserves
+Body:
+Hi PropVIVO, 
+	Can you tell me where our reserves are being held and how much interest we're getting? I think we should look around if we're not at least getting 3%
+Completion :
+Dear Board,
+	The reserves are held at CIT bank yielding an annual interest rate of 0.35%. For a higher interest the funds can be invested in short-term or long-term CDs.

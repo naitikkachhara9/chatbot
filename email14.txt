@@ -1,0 +1,16 @@
+Prompt:
+Subject: Re: RE: Brookside - past due payment
+Body:
+Hello Alex,
+	I started the process of the ACH, you will get an email and a txt to sign the authorization. 
+	Please also find attached the renewal documents requested. 
+	Adriana Robles Solis
+	Office Manager
+	JOSHUA SPAIN AGENCY
+Completion :
+	Dear Adriana
+	The account number is 305706460 and the routing number is CIT- Routing # - 104002894
+	The email id is invoices@propvivo.com <mailto:invoices@propvivo.com>  and the cell phone number is 425-246-1191.
+	Kindly let us know if you have any questions. You can reach us at services@propvivo.com <mailto:services@propvivo.com>  or call us at 888-392-3515. 
+	Thanks & Regards
+	Alex Snyder

@@ -1,0 +1,8 @@
+Prompt:
+Subject: Storage for unit 103 + couch outside of room
+Body:
+Hi PropVIVO,
+Is it safe to say that anything in the storage room for unit 103 should be taken away? There’s a lock on the door and it needs to be cleared out. 
+There’s also a couch that should be taken away. 
+Completion : 
+please notify Anahita (# 103) that lock will be removed and all items will be removed.

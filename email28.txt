@@ -1,0 +1,12 @@
+Prompt:
+Subject: Arden Insurance
+Body:
+	Hello Accounts/Invoices,
+The Bellevue Manor Board approved the two invoices for Arden Insurance (invoices #58406 for $87,845.31 and #58407 for $22,971.29, attached).  Please process for payment and code to insurance.
+Here is the Board Task link:  PM Board Task Detail (propvivo.com)<https://pmapp.propvivo.com/association/pm-board-task-list/pm-boardtask-detail?id=7f6948bd-1ef1-4b51-ac64-32c25d33352e&associationId=1c55ea26-2cfe-432e-a085-23487d979e65>
+Thank you,
+Catherine
+Completion :
+These are paid.
+Thanks
+Nancy

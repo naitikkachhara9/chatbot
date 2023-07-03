@@ -1,0 +1,10 @@
+Prompt:
+Subject: HOA dues - unit 402
+Body:
+	Hi there,
+	Can you tell me why my dues weren’t automatically paid? I thought there wasn’t anything I needed to do if I had autopay already set up.
+Completion :
+	Hello Brenden,
+	Sorry for the inconvenience. The ACH batch of January 1 and 2 is still under process and we have reached out to the banking partner to resolve the same. Expected resolution by January 6. 
+	Kindly let us know if you have any questions. You can reach us at services@propvivo.com <mailto:services@propvivo.com>  or call us at 888-392-3515. 
+	Thanks,

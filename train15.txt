@@ -1,0 +1,13 @@
+Prompt:
+Subject: RE: Brookside - past due payment 
+Body:
+	Hello Vivek,
+	Thanks for the payment. I need routing and account number I also need an email and a cellphone number so farmers can send you documentation you need to sign. 
+	Adriana Robles Solis 
+	Office Manager
+	JOSHUA SPAIN AGENCY
+Completion :
+	Hi Adriana,
+	It is paid online today. Kindly help us in getting the policy set up on ACH
+	Thanks,
+	Vivek Khanna
